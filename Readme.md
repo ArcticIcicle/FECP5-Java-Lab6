@@ -8,3 +8,7 @@ Date: July 2, 2025
 
 ![Screenshot of output](lab6.png)
 
+### Input and Output (Non-positive Order Quantity):
+
+![Screenshot of output](lab6invalid.png)
+
